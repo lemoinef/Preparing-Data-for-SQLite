@@ -13,18 +13,18 @@ You will also need to have software installed to run and execute a [Jupyter Note
 If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. Make sure that you select the Python 3.x installer.
 
 ## Code
-All the code is in the notebook `preparing_data_for_sqlite .ipynb`.
+All the code is in the notebook `preparing_data_for_sqlite.ipynb`.
 
 ## Run
 In a terminal or command window, navigate to the top-level project directory Visualizing-Pixar-s-Roller-Coaster/ (that contains this README) and run one of the following commands:
 
 ```
-jupyter notebook preparing_data_for_sqlite .ipynb
+jupyter notebook preparing_data_for_sqlite.ipynb
 ```
 
 or
 ```
-ipython notebook preparing_data_for_sqlite .ipynb
+ipython notebook preparing_data_for_sqlite.ipynb
 ```
 This will open the Jupyter Notebook software and project file in your web browser.
 
