@@ -29,4 +29,4 @@ ipython notebook preparing_data_for_sqlite.ipynb
 This will open the Jupyter Notebook software and project file in your web browser.
 
 ## Data
-The dataset used in this project is included as `academy_awards.csv.csv`. 
+The dataset used in this project is included as `academy_awards.csv`. 
