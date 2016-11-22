@@ -2,6 +2,9 @@
 
 We'll work with data on Academy Award nominations. The Academy Awards, also known as the Oscars, is an annual awards ceremony hosted to recognize the achievements in the film industry. There are many different awards categories and the members of the academy vote every year to decide which artist or film should get the award. The awards categories have changed over the years, and you can learn more about when categories were added on [Wikipedia](https://en.wikipedia.org/wiki/Academy_Awards#Awards_of_Merit_categories).
 
+## Context 
+This project is part of Dataquest.io guided projects. Datasets were provided and we were asked to make data exploration in Jupyter Notebook. Each project were constituted of 6 to 8 steps of exploration, analysis, visualization and sometimes machine learning algorithm implementation. Additional steps were given at the end of each project to advance our exploration. The text cells between each code cells are part of the instructions that were provided. It is slightly retouched. For example, instead of 'you', it has been replace by 'we' to improve readability. 
+
 ## Install
 This project requires Python 3 and the following Python libraries installed:
 
